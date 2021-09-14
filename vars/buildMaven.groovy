@@ -1,4 +1,4 @@
-def buildfunction () {
+def call () {
 	bat "mvn clean"
 	bat "mvn install"
 	bat "mvn test"
