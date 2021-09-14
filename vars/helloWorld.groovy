@@ -1,3 +1,3 @@
 def call () {
-	bat "echo hello world"
+	bat "echo hello world from shared-library !"
 }
