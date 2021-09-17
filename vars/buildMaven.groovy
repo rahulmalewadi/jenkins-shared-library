@@ -5,6 +5,6 @@ def call () {
 		bat "mvn test"
 		bat "mvn package"
 		bat "echo build successful!"
-		bat "sonar:sonar"
+		
 	
 }
